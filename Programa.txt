@@ -1,0 +1,46 @@
+
+Important : Creare site GIT hub!!!!!!!
+
+
+Programa in mare:
+
+1) Linux 
+
+- arhitectura: Mapare discuri, lunuri, networking, ssh key, scripting ( syntax), file systems --> Performance (processeces, memory, etc)
+
+2) Ansible
+
+- Instalare
+- YML ( limbaj de programare)
+
+3) Python
+
+-- tot ce tine de programare
+
+
+
+07.06.2018 
+
+
+1) First step:
+
+
+a) Insatalare OS ( virtual Box)  -- 2 servere: CentOS 7
+
+-- 1 server strict Ansible 
+
+-- 1 server strict baze de date
+
+b) Instalare Ansible si baze de date.
+
+
+
+
+
+
+
+
+
+
+
+
