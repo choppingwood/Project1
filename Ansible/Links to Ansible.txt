@@ -1,0 +1,97 @@
+Linkuri de la Mario:
+
+	https://blog.pythian.com/opatch-maintenance-with-ansible/ 
+	
+	http://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html 
+
+	http://docs.ansible.com/ansible/2.5/user_guide/intro_getting_started.html
+
+
+***************
+
+de citit despre GITHUB ( soluti git)-- public
+
+Site-ul lui mario:
+
+	https://github.com/djmario-ro/HybridCloud  
+
+
+
+
+***************
+
+What i found :
+
+
+https://wiredcraft.com/blog/getting-started-with-ansible-in-5-minutes/
+
+
+Galaxy is your hub for finding, reusing and sharing Ansible content:
+
+https://galaxy.ansible.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
